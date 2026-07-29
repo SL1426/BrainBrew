@@ -1,5 +1,7 @@
 # BrainBrew 🧠 | Interactive AI Study Assistant
 
+**Live Production Link:** [https://brain-brew-9l8d2379h-sl1426s-projects.vercel.app/](https://brain-brew-9l8d2379h-sl1426s-projects.vercel.app/)
+
 BrainBrew is a full-stack study assistant that transforms notes, PDFs, or screenshots into highly interactive study tools: **3D Flashcards** and **Multiple-Choice Quizzes**. 
 
 This repository features a **React/TypeScript frontend** and a serverless-compatible **FastAPI Python backend**, styled with a premium **Ocean Breeze 🌊** theme matching the interface design of ChatGPT and Claude.
