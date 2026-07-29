@@ -1,11 +1,11 @@
 [project]
 name = "brainbrew"
 version = "0.1.0"
-requires-python = ">=3.12,<3.13"
+requires-python = "==3.12.*"
 dependencies = [
     "fastapi==0.111.0",
     "requests==2.32.3",
-    "pydantic==2.7.4",
+    "pydantic==1.10.15",
     "python-dotenv==1.0.1",
     "pypdf>=4.0.0"
 ]
